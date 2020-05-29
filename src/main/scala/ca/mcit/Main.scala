@@ -5,7 +5,10 @@ import scala.io.{BufferedSource, Source}
 
 object Main extends App  {
 
-  // I was testing my file reading code to demo the app please run EnrichedTrip
+  // Please Ignore file
+  //I was testing my file reading code 
+  //To demo the app please run EnrichedTrip
+  
   val filePath = "/home/samuel/Desktop/routes.txt"
   val source: BufferedSource = Source.fromFile(filePath)
 
