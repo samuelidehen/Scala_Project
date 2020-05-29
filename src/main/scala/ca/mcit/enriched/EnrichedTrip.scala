@@ -68,4 +68,5 @@ object EnrichedTrip extends App {
     bw.newLine()
     bw.write(i)
   }
+  bw.close()
 }
