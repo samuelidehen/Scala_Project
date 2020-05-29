@@ -1,4 +1,4 @@
-package ca.mcit.Enriched
+package ca.mcit.enriched
 
 import ca.mcit.schema.{Calendar,  Route, Trip}
 import java.io._

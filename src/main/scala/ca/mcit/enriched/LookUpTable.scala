@@ -1,4 +1,4 @@
-package ca.mcit.Enriched
+package ca.mcit.enriched
 
 import ca.mcit.schema.{Route, RouteTrip, Trip}
 
