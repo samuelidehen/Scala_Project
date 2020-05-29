@@ -2,8 +2,6 @@ package ca.mcit.enriched
 
 import ca.mcit.schema.{Route, RouteTrip, Trip}
 
-
-
 case class JoinOutput(left: Any, right: Option[Any])
 
 class RouteLookUpTable[Trip, Route](val joinCond: (Trip, Route) => Boolean)  {
